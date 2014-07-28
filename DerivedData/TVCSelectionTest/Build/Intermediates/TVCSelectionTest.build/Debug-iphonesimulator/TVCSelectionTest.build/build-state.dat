@@ -1,0 +1,722 @@
+TTVCSelectionTest
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch.pch TVCSelectionTest/TVCSelectionTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/ViewController.o /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/AppDelegate.o /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/SelectionTableViewController.o /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/main.o /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest normal i386
+cCopyStringsFile /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/en.lproj/InfoPlist.strings TVCSelectionTest/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Images.xcassets
+cProcessInfoPlistFile /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Info.plist /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Info.plist
+cGenerateDSYMFile /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app.dSYM /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest
+cTouch /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000539148BA00000000000003B4
+t1402030266
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000539148CB000000000000019E
+t1402030283
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000539148D0000000000058E0E0
+t1402030288
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000539148D000000000005B82F0
+t1402030288
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000539148D00000000000446820
+t1402030288
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000539148D100000000003599D0
+t1402030289
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000539148D200000000002FC3B0
+t1402030290
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000539148D1000000000004B000
+t1402030289
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000539148D5000000000088D8C0
+t1402030293
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000539148D70000000000037680
+t1402030295
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000539148D9000000000048F720
+t1402030297
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000539148D8000000000013FD70
+t1402030296
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000539148DF0000000001F1DE10
+t1402030303
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000539148F100000000002BC360
+t1402030321
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000539148FE0000000000002338
+t1402030334
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000539148FF000000000008D370
+t1402030335
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000539148FF0000000000392E20
+t1402030335
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005377138C00000000000141F0
+t1400312716
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000539148FF0000000000014A80
+t1402030335
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000539148FF0000000000033BA0
+t1402030335
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000539148FF000000000001CFB0
+t1402030335
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000539148FF000000000001B2B0
+t1402030335
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000539148FF00000000000C9570
+t1402030335
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000539148FF0000000000063280
+t1402030335
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000539148FF0000000000008880
+t1402030335
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000539148FF0000000000015080
+t1402030335
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000539148FF00000000000230F0
+t1402030335
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000539148FF000000000000E380
+t1402030335
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000539148FF0000000000089380
+t1402030335
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000539148FF0000000000017320
+t1402030335
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000539148FF0000000000039CD0
+t1402030335
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000539148FF000000000000B0B0
+t1402030335
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000539149000000000000167E80
+t1402030336
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000539148FF00000000000106A0
+t1402030335
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000539148FF000000000001CE40
+t1402030335
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005391490000000000000740C0
+t1402030336
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053914900000000000006CA60
+t1402030336
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000539148FF000000000001BAD0
+t1402030335
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000539149000000000000084A20
+t1402030336
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005391492E0000000000000ADC
+t1402030382
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005391492E000000000000514C
+t1402030382
+s20812
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch.pch
+t1406533888
+s116876
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/AppDelegate.o
+t1406533888
+s62424
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/SelectionTableViewController.o
+t1406533895
+s65240
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/TVCSelectionTest.LinkFileList
+c0000000053D600FF0000000000000331
+t1406533887
+s817
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/ViewController.o
+t1406533888
+s53440
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/main.o
+t1406533888
+s3588
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/assetcatalog_dependencies.txt
+t1406533896
+s530
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/assetcatalog_generated_info.plist
+t1406533896
+s525
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app
+t1406533896
+s306
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app.dSYM
+t1406533896
+s102
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Base.lproj/Main.storyboardc
+t1406533896
+s170
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Info.plist
+t1406533896
+s1044
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/PkgInfo
+t1406533896
+s8
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest
+t1406533895
+s38572
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/en.lproj/InfoPlist.strings
+t1406533895
+s42
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.h
+c0000000053D5FE670000000000000122
+t1406533223
+s290
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.m
+c0000000053D5FE6700000000000007E4
+t1406533223
+s2020
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Base.lproj/Main.storyboard
+c0000000053D600FE00000000000014FF
+t1406533886
+s5375
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Images.xcassets
+c0000000053D5FE670000000000000088
+t1406533223
+s136
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.h
+c0000000053D600FE0000000000000213
+t1406533886
+s531
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.m
+c0000000053D601060000000000000855
+t1406533894
+s2133
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Info.plist
+c0000000053D5FE6700000000000004C9
+t1406533223
+s1225
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Prefix.pch
+c0000000053D5FE670000000000000158
+t1406533223
+s344
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.h
+c0000000053D5FE6700000000000000E4
+t1406533223
+s228
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.m
+c0000000053D600FE00000000000007E3
+t1406533886
+s2019
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/en.lproj/InfoPlist.strings
+c0000000053D5FE67000000000000002D
+t1406533223
+s45
+
+N/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/main.m
+c0000000053D5FE67000000000000015E
+t1406533223
+s350
+
+N/usr/lib/libSystem.B.dylib
+c0000000053771359000000000000E6D0
+t1400312665
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526740AD0000000000012A00
+t1382498477
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052674086000000000002E320
+t1382498438
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526740990000000000021860
+t1382498457
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053BB6D0E000000000001B610
+t1404792078
+s112144
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000526740AC00000000000BD920
+t1382498476
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005377138C00000000000141F0
+t1400312716
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000526740AD000000000000A120
+t1382498477
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053BB6D0E000000000001D550
+t1404792078
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526740AC0000000000014EE0
+t1382498476
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526740AF0000000000010380
+t1382498479
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000526740AF000000000000C4C0
+t1382498479
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000526740AD00000000000357A0
+t1382498477
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000526740AD000000000000C070
+t1382498477
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000537713820000000000010630
+t1400312706
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053BB6D0E000000000001DF10
+t1404792078
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526740990000000000075B00
+t1382498457
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053BB6D0E000000000007CD60
+t1404792078
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005267409900000000000766C0
+t1382498457
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526740990000000000021FA0
+t1382498457
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000530D6D5C000000000002D920
+t1393388892
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000526740AE000000000001E570
+t1382498478
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053BB6D0E000000000000CC70
+t1404792078
+s52336
+
+N/usr/lib/system/libunc.dylib
+c00000000526740A5000000000000C3F0
+t1382498469
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000526740AE00000000000199F0
+t1382498478
+s104944
+
+CBuild AST from /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.m
+r0
+
+CBuild AST from /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.m
+r0
+
+CBuild AST from /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.m
+r0
+
+CBuild AST from /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfab9318c3886b941^4c55328c3886b941^---0#1#1#--18"Check dependencies36"AB8771D7-8E18-408D-B478-D06686D2A426-
+
+CCompileAssetCatalog /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Images.xcassets
+s428226695.328149
+e428226696.684372
+r1
+xCompileAssetCatalog
+x/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app
+x/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/LaunchImage-700-568h@2x.png
+o/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Assets.car
+o/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"CompileAssetCatalog DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app TVCSelectionTest/Images.xcassets139"CompileAssetCatalog DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app TVCSelectionTest/Images.xcassets3b1d54873886b941^5533af883886b941^-558"/* com.apple.actool.compilation-results *//Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/LaunchImage-700-568h@2x.png/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Assets.car/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@90"file:///Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Images.xcassets/0000000000000000^1381"CompileAssetCatalog DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app TVCSelectionTest/Images.xcassets    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Images.xcassets36"9FBD1E51-EC68-40A7-B621-73ABAB38343D-
+bB5B06422-B354-4716-ACD2-F083D3ED9FD5
+
+CCompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/AppDelegate.o /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428226688.675972
+e428226688.981940
+r1
+xCompileC
+xDerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/AppDelegate.o
+x/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.m
+d/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.m258"CompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/AppDelegate.o TVCSelectionTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5c3bad803886b941^7f67fb803886b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.m0000000000000000^4447"CompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/AppDelegate.o TVCSelectionTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-generated-files.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-own-target-headers.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-all-target-headers.hmap -iquote /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-project-headers.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/DerivedSources/i386 -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/DerivedSources -F/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator -include /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch -MMD -MT dependencies -MF /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/AppDelegate.dia -c /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.m -o /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/AppDelegate.o36"FFF09F23-4AB0-46A0-999E-DACD8C719650-
+b37096A94-E99F-477B-8D27-3DC7856A4B6E
+
+CCompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/SelectionTableViewController.o /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428226695.004520
+e428226695.095130
+r1
+xCompileC
+xDerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/SelectionTableViewController.o
+x/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.m
+d/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.m292"CompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/SelectionTableViewController.o TVCSelectionTest/SelectionTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1f4901873886b941^dd5c18873886b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.m0000000000000000^4549"CompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/SelectionTableViewController.o TVCSelectionTest/SelectionTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-generated-files.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-own-target-headers.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-all-target-headers.hmap -iquote /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-project-headers.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/DerivedSources/i386 -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/DerivedSources -F/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator -include /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch -MMD -MT dependencies -MF /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/SelectionTableViewController.d --serialize-diagnostics /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/SelectionTableViewController.dia -c /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.m -o /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/SelectionTableViewController.o36"B0EE1AB0-AA8B-437B-9A34-47D862562C80-
+bB5B06422-B354-4716-ACD2-F083D3ED9FD5
+
+CCompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/ViewController.o /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428226688.675108
+e428226688.981993
+r1
+xCompileC
+xDerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/ViewController.o
+x/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.m
+d/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.h
+d/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/SelectionTableViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.m264"CompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/ViewController.o TVCSelectionTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf8fcac803886b941^9888fb803886b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.m0000000000000000^4465"CompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/ViewController.o TVCSelectionTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-generated-files.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-own-target-headers.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-all-target-headers.hmap -iquote /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-project-headers.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/DerivedSources/i386 -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/DerivedSources -F/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator -include /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch -MMD -MT dependencies -MF /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/ViewController.dia -c /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/ViewController.m -o /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/ViewController.o36"A1CA03C5-D1F5-4093-B326-7BA34254B636-
+b37096A94-E99F-477B-8D27-3DC7856A4B6E
+
+CCompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/main.o /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428226688.677309
+e428226688.981970
+r1
+xCompileC
+xDerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/main.o
+x/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/main.m
+d/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/main.m244"CompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/main.o TVCSelectionTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler48dead803886b941^897cfb803886b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/main.m0000000000000000^4405"CompileC DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/main.o TVCSelectionTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-generated-files.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-own-target-headers.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-all-target-headers.hmap -iquote /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-project-headers.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/DerivedSources/i386 -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/DerivedSources -F/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator -include /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch -MMD -MT dependencies -MF /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/main.dia -c /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/main.m -o /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/main.o36"095CD2B3-7D77-470C-B4DE-666DC46F7821-
+b37096A94-E99F-477B-8D27-3DC7856A4B6E
+
+CCompileStoryboard /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Base.lproj/Main.storyboard
+s428226695.327449
+e428226696.255174
+r1
+xCompileStoryboard
+x/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Base.lproj/Main.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Base.lproj/Main.storyboard:MMb-RC-Onj: warning: Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:. [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard TVCSelectionTest/Base.lproj/Main.storyboard61"CompileStoryboard TVCSelectionTest/Base.lproj/Main.storyboard71e653873886b941^0b0948883886b941^-303"/* com.apple.ibtool.document.warnings *//Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Base.lproj/Main.storyboard:MMb-RC-Onj: warning: Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:.1(21%IDEActivityLogMessage2@146"Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:.-428226696#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@100"file:///Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@100"file:///Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Base.lproj/Main.storyboard0000000000000000^928"CompileStoryboard TVCSelectionTest/Base.lproj/Main.storyboard    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Base.lproj/Main.storyboardc /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/Base.lproj/Main.storyboard36"E61E67CF-D3A1-4361-8D8F-A1A68E2DA263-
+bB5B06422-B354-4716-ACD2-F083D3ED9FD5
+
+CCopyStringsFile /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/en.lproj/InfoPlist.strings TVCSelectionTest/en.lproj/InfoPlist.strings
+s428226695.327174
+e428226695.332272
+r1
+xCopyStringsFile
+x/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/en.lproj/InfoPlist.strings
+xTVCSelectionTest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy TVCSelectionTest/en.lproj/InfoPlist.strings173"CopyStringsFile DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/en.lproj/InfoPlist.strings TVCSelectionTest/en.lproj/InfoPlist.strings8be053873886b941^271155873886b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/en.lproj/InfoPlist.strings0000000000000000^709"CopyStringsFile DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/en.lproj/InfoPlist.strings TVCSelectionTest/en.lproj/InfoPlist.strings    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/en.lproj -- TVCSelectionTest/en.lproj/InfoPlist.strings36"83BCF032-4F34-4E00-902D-512140D9D3D4-
+bB5B06422-B354-4716-ACD2-F083D3ED9FD5
+
+CGenerateDSYMFile /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app.dSYM /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest
+s428226696.689368
+e428226696.730095
+r1
+xGenerateDSYMFile
+x/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app.dSYM
+x/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Generate /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app.dSYM212"GenerateDSYMFile DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app.dSYM DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTestd289b0883886b941^9fe8ba883886b941^---0#0#1#-19%DVTDocumentLocation2@148"file:///Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app.dSYM00341ccadcffdf42^864"GenerateDSYMFile DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app.dSYM DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest -o /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app.dSYM36"055D3F10-E16A-41EA-BE39-717DFBE4C25C-
+bB5B06422-B354-4716-ACD2-F083D3ED9FD5
+
+CLd /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest normal i386
+s428226695.096736
+e428226695.326193
+r1
+xLd
+x/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest
+xnormal
+xi386
+d/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/TVCSelectionTest.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/ViewController.o
+d/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/AppDelegate.o
+d/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/SelectionTableViewController.o
+d/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Link /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest118"Ld DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest normal i3863aea18873886b941^a68153873886b941^---0#0#1#--1719"Ld DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest normal i386    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator -F/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator -filelist /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/TVCSelectionTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/Objects-normal/i386/TVCSelectionTest_dependency_info.dat -o /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/TVCSelectionTest36"FB9C1030-AC0C-4A5B-9901-52AB7609C96D-
+bB5B06422-B354-4716-ACD2-F083D3ED9FD5
+
+CProcessInfoPlistFile /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Info.plist /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Info.plist
+s428226696.685006
+e428226696.688816
+r1
+xProcessInfoPlistFile
+x/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Info.plist
+x/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Process /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Info.plist163"ProcessInfoPlistFile DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Info.plist TVCSelectionTest/TVCSelectionTest-Info.plistc16faf883886b941^e756b0883886b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Info.plist0000000000000000^1134"ProcessInfoPlistFile DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Info.plist TVCSelectionTest/TVCSelectionTest-Info.plist    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Info.plist -genpkginfo /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/assetcatalog_generated_info.plist -o /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app/Info.plist36"F29C20EF-1A3F-4AC6-9910-6A35415C3B94-
+bB5B06422-B354-4716-ACD2-F083D3ED9FD5
+
+CProcessPCH /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch.pch TVCSelectionTest/TVCSelectionTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428226687.096447
+e428226688.640606
+r1
+xProcessPCH
+x/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch.pch
+xTVCSelectionTest/TVCSelectionTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile TVCSelectionTest/TVCSelectionTest-Prefix.pch276"ProcessPCH DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch.pch TVCSelectionTest/TVCSelectionTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler10e8187f3886b941^15ffa3803886b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Prefix.pch0000000000000000^4280"ProcessPCH DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch.pch TVCSelectionTest/TVCSelectionTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/amureki/Development/obj-c/TVCSelectionTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-generated-files.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-own-target-headers.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-all-target-headers.hmap -iquote /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/TVCSelectionTest-project-headers.hmap -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/DerivedSources/i386 -I/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/TVCSelectionTest.build/Debug-iphonesimulator/TVCSelectionTest.build/DerivedSources -F/Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch.d -c /Users/amureki/Development/obj-c/TVCSelectionTest/TVCSelectionTest/TVCSelectionTest-Prefix.pch -o /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Intermediates/PrecompiledHeaders/TVCSelectionTest-Prefix-fsgzbjjyqzxbkhfsajfjgvqiyhou/TVCSelectionTest-Prefix.pch.pch36"A14BE9D6-A69F-4F28-BB59-CCD2EC610B72-
+b37096A94-E99F-477B-8D27-3DC7856A4B6E
+
+CProcessPCH /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Index/PrecompiledHeaders/TVCSelectionTest-Prefix-eafgkxehfeizxjhkeidplxuftwsb_ast/TVCSelectionTest-Prefix.pch.pch TVCSelectionTest/TVCSelectionTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/amureki/Development/obj-c/TVCSelectionTest/DerivedData/TVCSelectionTest/Build/Products/Debug-iphonesimulator/TVCSelectionTest.app
+r0
+
